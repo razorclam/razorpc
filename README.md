@@ -1,2 +1,2 @@
-# razorpc
+# dotfiles
 Dotfiles for RazorPC
